@@ -34,7 +34,7 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 plugins:
   - jekyll-remote-theme
 
-remote_theme: heiswayi/the-plain
+remote_theme: anhadgill23/the-plain
 
 defaults:
   -
