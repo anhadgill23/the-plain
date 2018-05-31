@@ -10,7 +10,7 @@ google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' t
 author_name:        "Anhad Gill"
 author_email:       gillanhad23@gmail.com
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
-twitter_username:   HeiswayiNrird # set to 'false' to disable
+twitter_username:   false # set to 'false' to disable
 github_username:    https://github.com/anhadgill23 # set to 'false' to disable
 
 # Site Settings
